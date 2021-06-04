@@ -1,15 +1,15 @@
 # LayoutCheck
 This app helps understand how layout works. Visual format and Anchors
-## Tools to implement the project
+## Tools to implemented in project
   - translatesAutoresizingMaskIntoConstraints
-  -addSubview()
+  - addSubview()
   - NSLayoutConstraint.constraints(withVisualFormat:)
  
  ## Project Screen Shots
 <img src="Screen1.png" width="200">
 
 ## More features soon 
-I won't add any faatures here, I'll use this project as playground for exploring layout even deeper.
+I won't add any features here, I'll use this project as playground for exploring layout even deeper.
   
 ## Conclusion 
 It was interesting project which helped me to understand how layout works.
