@@ -6,7 +6,7 @@ This app helps understand how layout works. Visual format and Anchors
   - NSLayoutConstraint.constraints(withVisualFormat:)
  
  ## Project Screen Shots
-<img src="Screen2.png" width="200"> <img src="Screen1.png" width="200">
+<img src="Screen1.png" width="200">
 
 ## More features soon 
 I won't add any faatures here, I'll use this project as playground for exploring layout even deeper.
