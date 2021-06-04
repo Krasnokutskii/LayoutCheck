@@ -2,19 +2,11 @@
 This app helps understand how layout works. Visual format and Anchors
 
 ## Tools implemented in project
-- GCD
-- FileManager
-- Multiple ViewControllers.
-- assert
-- UIItabelViewController
-- UIActivityViewController
-- @objc, target, action
-- #selector
-- UIImage
-- UIImageView
-- jpegData(CompressionQuality:)
-- info.plist
- 
+- translatesAutoresizingMaskIntoConstraints
+- addSubview()
+- NSLayoutConstraint.constraints(withVisualFormat:)
+- :H
+- :V
  ## Project Screen Shots
  <img src="Screen1.png" width="200">
  
@@ -31,4 +23,4 @@ iPhone XS, XS Max and XR.
 iPhone 11, 11 Pro and 11 Pro Max.  
 
 ## Conclusion 
-ddd
+the Visual Format Language is one of the ways creating layout in code, I don't think it's the best way but it appered pretty usefull. 
