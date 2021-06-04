@@ -1,17 +1,39 @@
 # LayoutCheck
+
 This app helps understand how layout works. Visual format and Anchors
+
 ## Tools to implemented in project
+
   - translatesAutoresizingMaskIntoConstraints
+
   - addSubview()
-  - NSLayoutConstraint.constraints(withVisualFormat:)
+
+  - widthAnchor,heightAcnhor
+
+  - topAnchor, bottomAnchor, leftAnchor, rightAnchor
+
+  - leadingAnchor, trailingAnchor
+
+  - centerXAnchor, centerYAnchor
+
  
+
  ## Project Screen Shots
+
 <img src="Screen1.png" width="200">
 
+
+
 ## More features soon 
+
 I won't add any features here, I'll use this project as playground for exploring layout even deeper.
+
   
+
 ## Conclusion 
-It was interesting project which helped me to understand how layout works.
-It was basic app and took one day to explore.
-I'm satisfied with work i've done and will return to explore this topic more.
+
+The anchors one of the ways creating layout, from my perspective it is the best and easiest way of doing layout. 
+
+Comparing Anchors with Visual Format Language, i'd prefer Anchors
+
+ 
